@@ -1,4 +1,4 @@
-# Bruno
+# Bruno Otávio
 
 **Desenvolvedor Web Full Stack** — especializado em aplicações web robustas, sites de alta performance e sistemas escaláveis.
 
@@ -61,7 +61,7 @@ Se quiser ver amostras de código ou discutir um projeto, entre em contato diret
 
 Aberto para projetos freelance — sites, sistemas, APIs e integrações.
 
-📬 **seu@email.com**
+📬 brunotavio2008m@gmail.com
 
 ---
 
