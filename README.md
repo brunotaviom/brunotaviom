@@ -50,12 +50,10 @@ Feel free to reach out if you'd like to see code samples or discuss a project.
 
 ## GitHub Stats
 
-## GitHub Stats
-
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=brunotaviom&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotaviom&layout=compact&theme=github_dark_dimmed&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=brunotaviom&show_icons=true&theme=dark_dimmed&hide_border=true&include_all_commits=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotaviom&layout=compact&theme=dark_dimmed&hide_border=true)
 
 </div>
 
