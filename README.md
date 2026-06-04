@@ -1,12 +1,12 @@
 # Bruno Otávio
 
-**Desenvolvedor Web Full Stack** — especializado em aplicações web robustas, sites de alta performance e sistemas escaláveis.
+**Full Stack Web Developer** — specialized in robust web applications, high-performance websites, and scalable systems.
 
-Trabalho com foco em código limpo, arquitetura sólida e entrega que funciona de verdade — do front ao back, do protótipo ao deploy.
+I focus on clean code, solid architecture, and delivery that actually works — from front to back, from prototype to deploy.
 
 ---
 
-## Stack principal
+## Main Stack
 
 **Front-end**
 
@@ -15,13 +15,13 @@ Trabalho com foco em código limpo, arquitetura sólida e entrega que funciona d
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
 
-**Back-end & Banco de Dados**
+**Back-end & Database**
 
 ![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat&logo=node.js&logoColor=white)
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
 
-**Infra & Ferramentas**
+**Infrastructure & Tools**
 
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
@@ -29,20 +29,20 @@ Trabalho com foco em código limpo, arquitetura sólida e entrega que funciona d
 
 ---
 
-## O que eu entrego
+## What I Deliver
 
-- **Landing pages e sites institucionais** — performáticos, responsivos e otimizados para conversão
-- **Sistemas web full stack** — painéis administrativos, CRUDs, autenticação, integrações com APIs
-- **APIs RESTful** — back-ends estruturados, documentados e prontos para escalar
-- **Containerização com Docker** — ambientes reproduzíveis, deploys confiáveis
+- **Landing pages & institutional websites** — performant, responsive, and conversion-optimized
+- **Full stack web systems** — admin panels, CRUDs, authentication, API integrations
+- **RESTful APIs** — structured, documented back-ends ready to scale
+- **Docker containerization** — reproducible environments, reliable deploys
 
 ---
 
-## Projetos em destaque
+## Featured Projects
 
-> Em construção — projetos sendo organizados e documentados.
+> Being organized and documented — check back soon.
 
-Se quiser ver amostras de código ou discutir um projeto, entre em contato direto.
+Feel free to reach out if you'd like to see code samples or discuss a project.
 
 ---
 
@@ -50,19 +50,19 @@ Se quiser ver amostras de código ou discutir um projeto, entre em contato diret
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=SEU_USERNAME&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USERNAME&layout=compact&theme=github_dark_dimmed&hide_border=true)
+![Stats](https://github-readme-stats.vercel.app/api?username=brunotaviom&show_icons=true&theme=github_dark_dimmed&hide_border=true&include_all_commits=true&hide=prs)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotaviom&layout=compact&theme=github_dark_dimmed&hide_border=true)
 
 </div>
 
 ---
 
-## Contato
+## Contact
 
-Aberto para projetos freelance — sites, sistemas, APIs e integrações.
+Open for freelance projects — websites, systems, APIs, and integrations.
 
 📬 brunotavio2008m@gmail.com
 
 ---
 
-<sub>Disponível para projetos remotos · Respondo rápido</sub>
+<sub>Available for remote projects · Quick to respond</sub>
