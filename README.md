@@ -52,8 +52,9 @@ Feel free to reach out if you'd like to see code samples or discuss a project.
 
 <div align="center">
 
-![Stats](https://github-readme-stats.vercel.app/api?username=brunotaviom&show_icons=true&theme=dark_dimmed&hide_border=true&include_all_commits=true&hide=prs)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=brunotaviom&layout=compact&theme=dark_dimmed&hide_border=true)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=brunotaviom&theme=dark&hide_border=true)
+
+![Top Langs](https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=brunotaviom&layout=compact&theme=dark&hide_border=true)
 
 </div>
 
